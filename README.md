@@ -3,3 +3,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="161" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HChange&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true" alt="Top Langs"/></a>
+  
+ <div align=center>
+  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=HChange&theme=react-dark&bg_color=0D1117">
+</div>
